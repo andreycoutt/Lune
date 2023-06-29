@@ -35,6 +35,4 @@ while True:
         if result is not None:
             text  =  result['text']
         
-        
         print(text)
-        speak(text)
